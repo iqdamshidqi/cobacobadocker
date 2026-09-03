@@ -113,7 +113,7 @@ export SALES_THRESHOLD=500000
 ```bash
 pip3 install --upgrade pip
 pip3 install -r requirements.txt
-python main.py
+python3 main.py
 ```
 
 ---
