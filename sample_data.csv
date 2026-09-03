@@ -1,0 +1,11 @@
+transaction_id,date,product_name,category,price,quantity,discount_percent
+TRX-001,2026-03-01,Mechanical Keyboard,Electronics,850000,2,10
+TRX-002,2026-03-01,Wireless Mouse,Electronics,250000,5,0
+TRX-003,2026-03-02,Ergonomic Chair,Furniture,2400000,1,15
+TRX-004,2026-03-02,Coffee Mug,Kitchenware,,4,0
+TRX-005,2026-03-03,Monitor 24 Inch,Electronics,1900000,2,5
+TRX-006,2026-03-03,Desk Lamp,Furniture,320000,,10
+TRX-007,2026-03-04,Standing Desk,Furniture,3500000,1,
+TRX-008,2026-03-04,Mechanical Pencil,Stationery,45000,10,0
+TRX-009,2026-03-05,USB-C Hub,Electronics,450000,3,5
+TRX-010,2026-03-05,Notebook A5,Stationery,35000,8,0
